@@ -1,0 +1,18 @@
+export const colors = {
+  bg: '#000000',
+  bgElevated: '#121214',
+  bgHeader: '#0a0a0c',
+  card: '#1c1c1e',
+  border: '#2a2a2d',
+  text: '#f5f5f7',
+  textSecondary: '#8e8e93',
+  textTertiary: '#5c5c60',
+  accent: '#3aa9ff',
+  online: '#31d158',
+  badge: '#3aa9ff',
+  bubbleOut: '#2f6fed',
+  bubbleIn: '#1f1f22',
+  storyGradient: ['#feda75', '#fa7e1e', '#d62976', '#962fbf', '#4f5bd5'] as const,
+  outGradient: ['#7c4dff', '#3aa9ff'] as const,
+  tabBarBg: 'rgba(10,10,12,0.96)',
+};
